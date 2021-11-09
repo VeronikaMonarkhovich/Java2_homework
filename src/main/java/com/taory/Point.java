@@ -26,10 +26,10 @@ import java.util.*;
 
         public static void main (String[]args){
 
-            Point point1 = new Point(22, 4);
-            Point point2 = new Point(3, 16);
-            Point point3 = new Point(4, 8);
-            Point point4 = new Point(9, 10);
+            Point point1 = new Point(8, 3);
+            Point point2 = new Point(6, 44);
+            Point point3 = new Point(26, 15);
+            Point point4 = new Point(1, 56);
 
             List<Point> points = new ArrayList<>();
             points.add(point1);
